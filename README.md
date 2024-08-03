@@ -1,4 +1,4 @@
-# SEMS-ML-PROJECT
+# SMART ENERGY MANAGEMENT SYSTEM USING ENSEMBLE LEARNING
 
 Abstract—This project introduces a Smart Energy Management System (SEMS) that utilizes ensemble learning with AdaBoost and Random Forest classifiers to predict energy waste
 in smart homes with high accuracy. It processes environmental data—brightness, humidity, and temperature—to identify un￾necessary lighting use. The system selects the most accurate
