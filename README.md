@@ -1,9 +1,3 @@
-Based on the project details from the document, here's a suggested title and GitHub README file for the project.
-
-### Title: Smart Energy Management System Using Ensemble Learning
-
----
-
 ## Smart Energy Management System Using Ensemble Learning
 
 ### Project Overview
